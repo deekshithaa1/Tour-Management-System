@@ -46,10 +46,13 @@ cd tour-management-system
 
 3️⃣ Configure Database Credentials 
 Open the Java file and update the following:
--java
--private static final String URL = "jdbc:mysql://localhost:3306/tour_management_system";
--private static final String USER = "root";
--private static final String PASSWORD = "your_password";
+java
+
+private static final String URL = "jdbc:mysql://localhost:3306/tour_management_system";
+
+private static final String USER = "root";
+
+private static final String PASSWORD = "your_password";
 
 
 4️⃣ Run the Application
