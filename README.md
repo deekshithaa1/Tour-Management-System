@@ -38,6 +38,7 @@ With a structured database, a scalable architecture, and a secure data-handling 
 1️⃣ Clone the Repository
 bash
 git clone https://github.com/your-username/tour-management-system.git
+
 cd tour-management-system
 
 2️⃣ Set Up MySQL Database  
