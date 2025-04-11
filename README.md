@@ -37,6 +37,7 @@ With a structured database, a scalable architecture, and a secure data-handling 
 
 1️⃣ Clone the Repository
 bash
+
 git clone https://github.com/your-username/tour-management-system.git
 
 cd tour-management-system
@@ -58,9 +59,10 @@ private static final String PASSWORD = "your_password";
 
 
 4️⃣ Run the Application
+
 bash
-javac TourManagementSystem.java
-java TourManagementSystem
+-->javac TourManagementSystem.java
+-->java TourManagementSystem
 
 📝 Future Enhancements:
 
